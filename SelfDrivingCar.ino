@@ -6,7 +6,7 @@
 //this engineering task. Further iterations would implement simultaneous localization and mapping algos in order 
 //to map the environment while keeping track of the current location. 
 
-//Enjoy the code!!
+//Please enjoy my code!!
 
 #include <AFMotor.h>
 #include <PID_v2.h>
