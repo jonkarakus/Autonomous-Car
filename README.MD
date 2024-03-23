@@ -1,4 +1,4 @@
-Completed by Jon Karakus (ECE Queens University)
+Completed by Jon Karakus 
 
 Inspired by popular maze car challenges, the goal of this project was to create an autonomous car 
 prototype that would be capable of navigating around household objects in an intelligent manner 
