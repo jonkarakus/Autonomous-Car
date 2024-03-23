@@ -1,3 +1,7 @@
-Hey, can you see me? "# Autonomous-Car" 
-"# Autonomous-Car" 
-"# Autonomous-Car" 
+Completed by Jon Karakus (ECE Queens University)
+
+Inspired by popular maze car challenges, the goal of this project was to create an autonomous car 
+prototype that would be capable of navigating around household objects in an intelligent manner 
+without any preset navigation commands. A combination of 6 sensors and 2 servo motors were used to complete 
+this engineering task. Further iterations would implement simultaneous localization and mapping algos in order 
+to map the environment while keeping track of the current location. 
